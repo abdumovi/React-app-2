@@ -1,0 +1,29 @@
+.hero__btn{
+  max-width: 40px;
+  padding: 0;
+  margin: 0 5px;
+}
+.hero__slider{
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+.hero__title{
+  color: #7f8fa4;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+.hero__inner-title{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.hero__pricet{
+  color: #7f8fa4;
+}
+.hero__hr{
+  margin-bottom: 10px;
+}
+.hero__counter-price{
+  margin-bottom: 10px;
+}
